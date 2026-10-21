@@ -28,3 +28,5 @@ A collection of custom user-scripts for browser automation and data extraction.
 
 ## Environment
 * Developed and tested on **Google Chrome** using the **Tampermonkey** extension.
+
+[https://raw.githubusercontent.com/liizzieenn/tampermonkey-automation-scripts/main/weather-scraper/weather_scraper.user.js](https://raw.githubusercontent.com/liizzieenn/tampermonkey-automation-scripts/main/weather-scraper/weather_scraper.user.js)
